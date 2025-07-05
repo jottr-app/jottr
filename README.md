@@ -1,8 +1,7 @@
 # jottr
 Workshop for the jottr app
 
-## Product Roadmap
-[Click here](roadmap.md)
+## Extended Docs
 
-## Current Phase
-Ideation
+Check out the [📖 jottr Wiki](https://github.com/jottr-app/jottr/wiki)
+
